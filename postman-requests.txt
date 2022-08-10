@@ -1,0 +1,10 @@
+//post request-signup
+{
+    "firstName":"John",
+    "lastName":"MX",
+    "phoneNo":"03212333",
+    "email":"John@gmail.com",
+    "password":"123456"
+}
+//run the project
+npm run server
